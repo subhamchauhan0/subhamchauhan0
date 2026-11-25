@@ -13,8 +13,8 @@
       <img src="https://img.shields.io/badge/GitHub-subhamchauhan0-0B0B0B?style=flat-square&logo=github&logoColor=D6C6A5" alt="GitHub" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://leetcode.com/u/shubbu/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/LeetCode-shubbu-0B0B0B?style=flat-square&logo=leetcode&logoColor=D6C6A5" alt="LeetCode" />
+    <a href="https://leetcode.com/u/Subham_chauhan/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/LeetCode-Subham__chauhan-0B0B0B?style=flat-square&logo=leetcode&logoColor=D6C6A5" alt="LeetCode" />
     </a>
   </p>
 
@@ -205,8 +205,8 @@ An applied AI system exploring vector context retrieval, tool invocation workflo
   <a href="https://github.com/subhamchauhan0">
     <img src="https://streak-stats.demolab.com/?user=subhamchauhan0&theme=dark&background=0B0B0B&border=444444&stroke=444444&ring=8B0000&fire=8B0000&currStreakLabel=D6C6A5&sideLabels=A0A0A0&dates=A0A0A0" alt="GitHub Streak Stats" width="49%" />
   </a>
-  <a href="https://leetcode.com/u/shubbu/" target="_blank" rel="noopener noreferrer">
-    <img src="https://leetcard.jacoblin.cool/shubbu?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" width="49%" />
+  <a href="https://leetcode.com/u/Subham_chauhan/" target="_blank" rel="noopener noreferrer">
+    <img src="https://leetcard.jacoblin.cool/Subham_chauhan?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" width="49%" />
   </a>
 
   <br /><br />
@@ -238,7 +238,7 @@ An applied AI system exploring vector context retrieval, tool invocation workflo
 
   [![GitHub](https://img.shields.io/badge/GitHub-subhamchauhan0-0B0B0B?style=for-the-badge&logo=github&logoColor=D6C6A5&borderColor=444444)](https://github.com/subhamchauhan0)
   &nbsp;&nbsp;
-  [![LeetCode](https://img.shields.io/badge/LeetCode-shubbu-0B0B0B?style=for-the-badge&logo=leetcode&logoColor=D6C6A5&borderColor=444444)](https://leetcode.com/u/shubbu/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-Subham__chauhan-0B0B0B?style=for-the-badge&logo=leetcode&logoColor=D6C6A5&borderColor=444444)](https://leetcode.com/u/Subham_chauhan/)
 
 </div>
 
