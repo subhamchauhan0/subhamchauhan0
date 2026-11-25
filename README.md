@@ -1,27 +1,11 @@
 <div align="center">
 
-  <img src="assets/github-banner.png" alt="Subham Chauhan — Systems, Networking & AI" width="100%" />
+  <img src="assets/banner.svg" alt="Subham Chauhan — Systems, Networking & AI" width="100%" />
 
-  <br />
-
-  # SUBHAM CHAUHAN
-
-  ### Systems & Backend Developer &nbsp;|&nbsp; Exploring Cybersecurity & AI
+  <br /><br />
 
   <p align="center">
     <em>Building high-throughput systems, low-level networking engines, and intelligent applications.</em>
-  </p>
-
-  <p align="center">
-    <code>C++17</code> &nbsp;•&nbsp;
-    <code>Go</code> &nbsp;•&nbsp;
-    <code>Python</code> &nbsp;•&nbsp;
-    <code>Linux & Sockets</code> &nbsp;•&nbsp;
-    <code>RAG & AI Tooling</code>
-  </p>
-
-  <p align="center">
-    <strong><em>“Struggle. Endure. Overcome.”</em></strong>
   </p>
 
   <p align="center">
@@ -29,8 +13,8 @@
       <img src="https://img.shields.io/badge/GitHub-subhamchauhan0-0B0B0B?style=flat-square&logo=github&logoColor=D6C6A5" alt="GitHub" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://codolio.com/profile/shubbu" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Codolio-shubbu-0B0B0B?style=flat-square&logo=codeforces&logoColor=D6C6A5" alt="Codolio" />
+    <a href="https://leetcode.com/u/shubbu/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/LeetCode-shubbu-0B0B0B?style=flat-square&logo=leetcode&logoColor=D6C6A5" alt="LeetCode" />
     </a>
   </p>
 
@@ -203,30 +187,32 @@ An applied AI system exploring vector context retrieval, tool invocation workflo
 
 <br />
 
-## 📊 Telemetry & Activity
+## 📊 Activity & Telemetry
 
 <div align="center">
 
+  <!-- GitHub Stats & Top Languages -->
   <a href="https://github.com/subhamchauhan0">
-    <img src="https://github-readme-stats.vercel.app/api?username=subhamchauhan0&show_icons=true&bg_color=0B0B0B&title_color=D6C6A5&text_color=A0A0A0&icon_color=8B0000&border_color=444444" alt="Subham's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=subhamchauhan0&show_icons=true&bg_color=0B0B0B&title_color=D6C6A5&text_color=A0A0A0&icon_color=8B0000&border_color=444444" alt="Subham's GitHub Stats" width="49%" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/subhamchauhan0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamchauhan0&layout=compact&bg_color=0B0B0B&title_color=D6C6A5&text_color=A0A0A0&border_color=444444" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamchauhan0&layout=compact&bg_color=0B0B0B&title_color=D6C6A5&text_color=A0A0A0&border_color=444444" alt="Top Languages" width="49%" />
   </a>
 
   <br /><br />
 
+  <!-- GitHub Streak & LeetCode Stats (Side-by-Side) -->
   <a href="https://github.com/subhamchauhan0">
-    <img src="https://streak-stats.demolab.com/?user=subhamchauhan0&theme=dark&background=0B0B0B&border=444444&stroke=444444&ring=8B0000&fire=8B0000&currStreakLabel=D6C6A5&sideLabels=A0A0A0&dates=A0A0A0" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=subhamchauhan0&theme=dark&background=0B0B0B&border=444444&stroke=444444&ring=8B0000&fire=8B0000&currStreakLabel=D6C6A5&sideLabels=A0A0A0&dates=A0A0A0" alt="GitHub Streak Stats" width="49%" />
+  </a>
+  <a href="https://leetcode.com/u/shubbu/" target="_blank" rel="noopener noreferrer">
+    <img src="https://leetcard.jacoblin.cool/shubbu?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" width="49%" />
   </a>
 
   <br /><br />
 
-  <!-- Codolio Dynamic Problem Solving & Contest Portfolio Card -->
-  <a href="https://codolio.com/profile/shubbu" target="_blank" rel="noopener noreferrer">
-    <img src="https://codolio.com/api/og/shubbu" alt="Codolio Problem Solving & Contest Portfolio — shubbu" width="90%" />
-  </a>
+  <!-- Animated Contribution Snake (Generated via .github/workflows/snake.yml) -->
+  <img src="https://raw.githubusercontent.com/subhamchauhan0/subhamchauhan0/output/github-snake-crimson.svg" alt="Contribution Snake Animation" width="100%" />
 
 </div>
 
@@ -252,7 +238,7 @@ An applied AI system exploring vector context retrieval, tool invocation workflo
 
   [![GitHub](https://img.shields.io/badge/GitHub-subhamchauhan0-0B0B0B?style=for-the-badge&logo=github&logoColor=D6C6A5&borderColor=444444)](https://github.com/subhamchauhan0)
   &nbsp;&nbsp;
-  [![Codolio](https://img.shields.io/badge/Codolio-shubbu-0B0B0B?style=for-the-badge&logo=codeforces&logoColor=D6C6A5&borderColor=444444)](https://codolio.com/profile/shubbu)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-shubbu-0B0B0B?style=for-the-badge&logo=leetcode&logoColor=D6C6A5&borderColor=444444)](https://leetcode.com/u/shubbu/)
 
 </div>
 
