@@ -80,45 +80,17 @@ An applied AI application exploring Retrieval-Augmented Generation (RAG), model/
 ## Tech & Links
 
 <div align="center">
-
   <img src="https://skillicons.dev/icons?i=cpp,go,py,js,ts,react,nodejs,postgres,mongodb,sqlite,linux,git,cmake,docker&theme=dark" alt="Technologies: C++, Go, Python, JavaScript, TypeScript, React, Node.js, PostgreSQL, MongoDB, SQLite, Linux, Git, CMake, Docker" />
-
   <br /><br />
-
-  <a href="https://github.com/subhamchauhan0" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/icons/github.svg" width="36" height="36" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/subham-chauhan-6abb39282" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/icons/linkedin.svg" width="36" height="36" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://codolio.com/profile/shubbu" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/icons/codolio.svg" width="36" height="36" alt="Codolio" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:subham15062005@gmail.com">
-    <img src="./assets/icons/gmail.svg" width="36" height="36" alt="Gmail" />
-  </a>
-
+  <a href="https://github.com/subhamchauhan0" target="_blank" rel="noopener noreferrer"><img src="./assets/icons/github.svg" width="36" height="36" alt="GitHub" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/subham-chauhan-6abb39282" target="_blank" rel="noopener noreferrer"><img src="./assets/icons/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://codolio.com/profile/shubbu" target="_blank" rel="noopener noreferrer"><img src="./assets/icons/codolio.svg" width="36" height="36" alt="Codolio" /></a>&nbsp;&nbsp;<a href="mailto:subham15062005@gmail.com"><img src="./assets/icons/gmail.svg" width="36" height="36" alt="Gmail" /></a>
 </div>
-
-- **Languages:** `C++17`, `Go`, `Python`, `JavaScript`, `TypeScript`, `SQL`
-- **Systems & Concurrency:** POSIX Threads, Lock-Free Ring Buffers, CPU Affinity, Cache Alignment, Memory Pools
-- **Networking & Backend:** TCP/IP, Raw Sockets, `gopacket`/`libpcap`, HTTP Reverse Proxy, WebSockets, REST APIs, JWT
-- **Databases & Tooling:** PostgreSQL, MongoDB, SQLite, RAG, LangChain, LangGraph, MCP (exploring), Linux, Git, CMake, Docker Compose
 
 ---
 
 ## Activity
 
 <div align="center">
-  <a href="https://github.com/subhamchauhan0">
-    <img src="https://streak-stats.demolab.com/?user=subhamchauhan0&theme=dark&background=0B0B0B&border=444444&stroke=444444&ring=8B0000&fire=8B0000&currStreakLabel=D6C6A5&sideLabels=A0A0A0&dates=A0A0A0" alt="GitHub Streak Stats for subhamchauhan0" width="49%" />
-  </a>
-  <a href="https://leetcode.com/u/Subham_chauhan/" target="_blank" rel="noopener noreferrer">
-    <img src="https://leetcard.jacoblin.cool/Subham_chauhan?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats for Subham_chauhan" width="49%" />
-  </a>
+  <a href="https://github.com/subhamchauhan0"><img src="https://streak-stats.demolab.com/?user=subhamchauhan0&theme=dark&background=0B0B0B&border=444444&stroke=444444&ring=8B0000&fire=8B0000&currStreakLabel=D6C6A5&sideLabels=A0A0A0&dates=A0A0A0" alt="GitHub Streak Stats for subhamchauhan0" width="49%" valign="middle" /></a>&nbsp;<a href="https://leetcode.com/u/Subham_chauhan/" target="_blank" rel="noopener noreferrer"><img src="https://leetcard.jacoblin.cool/Subham_chauhan?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats for Subham_chauhan" width="49%" valign="middle" /></a>
 
   <br /><br />
 
