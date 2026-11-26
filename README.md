@@ -4,8 +4,12 @@
     <em>Building systems, exploring networking protocols, and engineering intelligent applications.</em>
   </p>
   <p>
-    <a href="https://leetcode.com/u/Subham_chauhan/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/LeetCode-Subham__chauhan-0B0B0B?style=flat-square&logo=leetcode&logoColor=D6C6A5" alt="LeetCode Profile — Subham_chauhan" />
+    <a href="https://codolio.com/profile/shubbu" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Codolio-shubbu-0B0B0B?style=flat-square&logo=codeforces&logoColor=D6C6A5" alt="Codolio Profile — shubbu" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/subham-chauhan-6abb39282" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/LinkedIn-Subham_Chauhan-0B0B0B?style=flat-square&logo=linkedin&logoColor=D6C6A5" alt="LinkedIn Profile" />
     </a>
   </p>
 </div>
@@ -73,12 +77,36 @@ An applied AI application exploring Retrieval-Augmented Generation (RAG), model/
 
 ---
 
-## Technologies
+## Tech & Links
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=cpp,go,py,js,ts,react,nodejs,postgres,mongodb,sqlite,linux,git,cmake,docker&theme=dark" alt="Technologies: C++, Go, Python, JavaScript, TypeScript, React, Node.js, PostgreSQL, MongoDB, SQLite, Linux, Git, CMake, Docker" />
+
+  <br /><br />
+
+  <a href="https://github.com/subhamchauhan0" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/icons/github.svg" width="36" height="36" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/subham-chauhan-6abb39282" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/icons/linkedin.svg" width="36" height="36" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codolio.com/profile/shubbu" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/icons/codolio.svg" width="36" height="36" alt="Codolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:subham15062005@gmail.com">
+    <img src="./assets/icons/gmail.svg" width="36" height="36" alt="Gmail" />
+  </a>
+
+</div>
 
 - **Languages:** `C++17`, `Go`, `Python`, `JavaScript`, `TypeScript`, `SQL`
 - **Systems & Concurrency:** POSIX Threads, Lock-Free Ring Buffers, CPU Affinity, Cache Alignment, Memory Pools
 - **Networking & Backend:** TCP/IP, Raw Sockets, `gopacket`/`libpcap`, HTTP Reverse Proxy, WebSockets, REST APIs, JWT
-- **AI & Tooling:** RAG, LangChain, LangGraph, MCP (exploring), Linux, Git, CMake, Docker Compose
+- **Databases & Tooling:** PostgreSQL, MongoDB, SQLite, RAG, LangChain, LangGraph, MCP (exploring), Linux, Git, CMake, Docker Compose
 
 ---
 
@@ -106,7 +134,9 @@ An applied AI application exploring Retrieval-Augmented Generation (RAG), model/
 ## Contact
 
 - **GitHub:** [github.com/subhamchauhan0](https://github.com/subhamchauhan0)
-- **LeetCode:** [leetcode.com/u/Subham_chauhan](https://leetcode.com/u/Subham_chauhan/)
+- **LinkedIn:** [linkedin.com/in/subham-chauhan-6abb39282](https://www.linkedin.com/in/subham-chauhan-6abb39282)
+- **Codolio:** [codolio.com/profile/shubbu](https://codolio.com/profile/shubbu)
+- **Email:** [subham15062005@gmail.com](mailto:subham15062005@gmail.com)
 
 <div align="center">
   <strong>STRUGGLE. ENDURE. OVERCOME.</strong>

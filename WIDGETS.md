@@ -16,6 +16,7 @@ All widgets used in `README.md` are configured with the dark Berserk palette:
 | **Streak Stats Card** | `github-readme-streak-stats` | `https://streak-stats.demolab.com/?user=subhamchauhan0&theme=dark&background=0B0B0B&border=444444&stroke=444444&ring=8B0000&fire=8B0000&currStreakLabel=D6C6A5&sideLabels=A0A0A0&dates=A0A0A0` | **200 OK** |
 | **LeetCode Stats Card** | `leetcard.jacoblin.cool` | `https://leetcard.jacoblin.cool/Subham_chauhan?theme=dark&font=JetBrains%20Mono&ext=heatmap` | **200 OK** |
 | **Contribution Snake** | `Platane/snk` (GitHub Action) | `https://raw.githubusercontent.com/subhamchauhan0/subhamchauhan0/output/github-snake-crimson.svg` | **200 OK** (updated via `.github/workflows/snake.yml` on `master`) |
+| **Tech Stack Icons** | `skillicons.dev` | `https://skillicons.dev/icons?i=cpp,go,py,js,ts,react,nodejs,postgres,mongodb,sqlite,linux,git,cmake,docker&theme=dark` | **200 OK** |
 
 *(Note: `github-readme-stats.vercel.app` cards were removed per the audit brief because the upstream repository is no longer maintained and its public Vercel instance is best-effort.)*
 
