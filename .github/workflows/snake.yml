@@ -8,10 +8,10 @@ on:
   # Allows manual trigger from the Actions tab
   workflow_dispatch:
 
-  # Run on every push to main
+  # Run on every push to master
   push:
     branches:
-      - main
+      - master
 
 jobs:
   generate:
