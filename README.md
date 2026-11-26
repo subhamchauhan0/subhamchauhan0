@@ -26,7 +26,7 @@ I am a software developer interested in systems programming, backend engineering
 - **Networking & Backend:** Go, TCP/IP packet handling, raw sockets, HTTP reverse proxies, WebSockets, and REST APIs.
 - **Applied AI:** Python, Retrieval-Augmented Generation (RAG), tool-calling workflows, and Model Context Protocol (MCP) exploration.
 
-### 1. Trade Engine — C++17
+---
 
 ## Featured Projects
 
@@ -66,13 +66,12 @@ An applied AI application exploring Retrieval-Augmented Generation (RAG), model/
 
 **Stack:** `Python` · `RAG` · `SQLite` · `React` · `Vite` · [View source →](https://github.com/subhamchauhan0/chatbot)
 
-### 2. Load Balancer — Go
+---
 
 ## Other Projects & Experiments
 
 - **[url_shortener](https://github.com/subhamchauhan0/url_shortener):** URL shortening service in Go with database persistence and Docker Compose setup.
 - **[CLI_TODO_LIST](https://github.com/subhamchauhan0/CLI_TODO_LIST):** Command-line task manager implemented in Go.
-- **[TAI](https://github.com/subhamchauhan0/TAI):** Agent development and evaluation experiments.
 - **[lang_chain](https://github.com/subhamchauhan0/lang_chain) & [learn-langGraph](https://github.com/subhamchauhan0/learn-langGraph):** Learning experiments with LangChain pipelines and asynchronous LangGraph workflows.
 
 ---
