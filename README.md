@@ -90,16 +90,8 @@ An applied AI application exploring Retrieval-Augmented Generation (RAG), model/
 ## Activity
 
 <div align="center">
-  <a href="https://github.com/subhamchauhan0"><img src="https://streak-stats.demolab.com/?user=subhamchauhan0&theme=dark&background=0B0B0B&border=444444&stroke=444444&ring=8B0000&fire=8B0000&currStreakLabel=D6C6A5&sideLabels=A0A0A0&dates=A0A0A0" alt="GitHub Streak Stats for subhamchauhan0" width="49%" valign="middle" /></a>&nbsp;<a href="https://leetcode.com/u/Subham_chauhan/" target="_blank" rel="noopener noreferrer"><img src="https://leetcard.jacoblin.cool/Subham_chauhan?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats for Subham_chauhan" width="49%" valign="middle" /></a>
-
-  <br /><br />
-
   <img src="https://raw.githubusercontent.com/subhamchauhan0/subhamchauhan0/output/github-snake-crimson.svg" alt="GitHub Contribution Snake Animation" width="100%" />
 </div>
-
-<p align="center">
-  <sub>View live coding activity on <a href="https://leetcode.com/u/Subham_chauhan/" target="_blank" rel="noopener noreferrer">LeetCode</a>.</sub>
-</p>
 
 ---
 
